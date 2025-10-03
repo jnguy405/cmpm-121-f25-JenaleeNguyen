@@ -17,7 +17,7 @@ Key workflows:
 - Making a small change to the project.
 - Manually testing your change locally.
 - Committing and pushing your change to your remote repository on GitHub, verifying that the deployment succeeds.
-- Added counter increment by 3 and convert the counter message for HTML formatting in console.
+- Added counter increment by 1 and convert the counter message for HTML formatting (i.e. to_string()) in console.
 - Repeating the editing-to-publishing process to build familiarity with the overall workflow.
 
 ## Getting Started
